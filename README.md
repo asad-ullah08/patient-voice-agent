@@ -8,7 +8,7 @@ Conversational Voice AI agent accessible via a dialable U.S. phone number that c
 - **U.S. Phone Number to Call:** +1 (945) 788 9320
 - **API Base URL:** [https://overhang-crewman-constable.ngrok-free.dev](https://overhang-crewman-constable.ngrok-free.dev)
 - **Dashboard URL:** https://overhang-crewman-constable.ngrok-free.dev/
-- **Repository URL:** https://github.com/your-username/patient-voice-agent
+- **Repository URL:** https://github.com/asad-ullah08/patient-voice-agent
 
 ---
 
