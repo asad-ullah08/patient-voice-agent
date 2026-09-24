@@ -43,7 +43,7 @@ PORT=3000
    node server.js
 
 3. Expose with ngrok:
-   ngrok http --domain=your-static-domain.ngrok-free.app 3000
+   ngrok http --domain=overhang-crewman-constable.ngrok-free.dev 3000
 
 ---
 
